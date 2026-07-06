@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maxstorkz.github.io/maxstor/sitemap.xml
