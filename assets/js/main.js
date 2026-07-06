@@ -1,0 +1,1 @@
+// MAXSTOR main JavaScript file
